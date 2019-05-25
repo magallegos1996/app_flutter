@@ -1,2 +1,7 @@
 .idea
 .metadata
+build/last_build_run.json
+android/.gradle
+build/.app
+build/app.dill.track.dill
+build/app.dill.track.dill.incremental.dill
